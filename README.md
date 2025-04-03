@@ -14,7 +14,7 @@ The dataset we have analyzed here consists of **`100 randomly selected users`** 
 
 ## Objective
 
-The design team of the company has researched and created a new landing page that has a new outline & more relevant content shown compared to the old page. In order to test the effectiveness of the new landing page in gathering new subscribers, the Data Science team conducted an experiment by randomly selecting 100 users and dividing them equally into two groups. The existing landing page was served to the first group (control group) and the new landing page to the second group (treatment group). Data regarding the interaction of users in both groups with the two versions of the landing page was collected. 
+The design team of the company has researched and created a new landing page that has a new outline & more relevant content shown compared to the old page. In order to test the effectiveness of the new landing page in gathering new subscribers, the Data Science team conducted an experiment by randomly selecting 100 users and dividing them equally into two groups. The existing landing page was served to the first group (control group) and the new landing page to the second group (treatment group). Data regarding the interaction of users in both groups with the two versions of the landing page was collected.<br>
 The main idea of this analysis is to explore the data and perform a **`statistical analysis (at a significance level of 5%)`** to determine the effectiveness of the new landing page in gathering new subscribers for the news portal by answering the following questions:
 
 1. Do the users spend more time on the new landing page than on the existing landing page?
